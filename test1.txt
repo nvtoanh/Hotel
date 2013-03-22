@@ -4,5 +4,3 @@ Hello 3
 
 khoa test
 another khoa test
-
-another khoa test again
